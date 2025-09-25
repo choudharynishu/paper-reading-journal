@@ -1,3 +1,7 @@
+**Citation:** Ramachandran, Prajit et al. “Searching for Activation Functions.” 
+ArXiv abs/1710.05941 (2018): n. pag.
+
+
 This paper proposes an automated approach for designing and searching for activation functions. 
 The authors start from the context that ReLU activation functions have been a breakthrough since Krizhevsky et al. 2012. 
 ReLU functions addressed the problem of 'dying gradients', and even though they are not differentiable at $x=0$
